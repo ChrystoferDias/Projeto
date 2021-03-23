@@ -30,5 +30,3 @@ Informar o endereço IP ou URL da aplicação, conforme exemplo abaixo. É impor
 
 ## Outras Observações
 Quaisquer instruções sobre instalação, configuração, acesso, etc., deverão constar neste documento para que a correção pelo professor possa ser realizada.
-
-TESTE
